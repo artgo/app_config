@@ -1,3 +1,6 @@
+Modifications to AppConfig plugin by Eugene Bolshakov
+to add more functionality and make sure that parsing exceptions are thrown
+
 AppConfig plugin by Eugene Bolshakov, eugene.bolshakov@gmail.com, http://www.taknado.com
 
 The plugin is based on the idea described here:

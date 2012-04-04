@@ -1,0 +1,6 @@
+Manifest
+README
+Rakefile
+init.rb
+lib/app_config.rb
+test/app_config_test.rb
